@@ -58,6 +58,13 @@ evaluated: no code, no formula, no template.
 Mobile first, WCAG 2.1 AA, full keyboard operability, a small bundle, and a
 working escape hatch on a low-end device.
 
+## X. E-reader compatible
+
+The app is usable from an e-reader's web browser, and preferably designed for
+one. An e-ink screen is greyscale and redraws slowly, so no meaning rests on
+colour alone and no task needs animation or hover. Compatibility with every
+e-reader model is not required.
+
 ## Governance
 
 An amendment is a documented change to this file with its rationale. Every

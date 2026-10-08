@@ -27,6 +27,7 @@ not an Offware app.
    stays whole without it.
 7. Open source under AGPL-3.0, with open, replaceable components only: no
    proprietary SDK and no cloud dependency for any core feature.
+8. It is usable from an e-reader's browser, and preferably designed for one.
 
 An online service, where one exists, sits outside this promise under its own
 name: the app never needs it.
