@@ -65,6 +65,14 @@ one. An e-ink screen is greyscale and redraws slowly, so no meaning rests on
 colour alone and no task needs animation or hover. Compatibility with every
 e-reader model is not required.
 
+## XI. Composable blocks
+
+Every block, an app, a tool or a dataset, does one job and does it well, after
+the Unix philosophy. It reads and writes open, documented formats, plain files
+first, so any other block, Offware or not, can feed it, read its output or
+replace it. Blocks meet only at those formats: none reaches into another's
+code or private storage.
+
 ## Governance
 
 An amendment is a documented change to this file with its rationale. Every
